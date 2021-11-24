@@ -1,2 +1,2 @@
-# fase 1 module 2 museum online
-# Java script
+# fase 1 Module 2 museum Online
+## javascript
