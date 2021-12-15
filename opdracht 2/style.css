@@ -3,7 +3,7 @@ body{
 }
 
 #Yonia {
-    background-color: green;
+    background-color: bisque;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
@@ -25,4 +25,12 @@ button{
     color: black;
     font-size: 18px;
     border: 2px solid black;
+}
+.rood{
+    color : red;
+
+    }
+
+.green{
+    color : green;
 }

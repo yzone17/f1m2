@@ -1,0 +1,18 @@
+body{
+    padding: 5px;
+    margin : 5px;
+    
+}
+
+.button{
+     background-color: blue;
+     padding: 5px;
+     margin: 5px;
+     width: 100px;
+     color: cyan
+
+}
+
+.button:hover{
+     background-color: chartreuse;
+}
