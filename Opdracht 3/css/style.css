@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    background-image: url(../img/Yonia/The\ Empire\ fo\ Cornavos.jpg);
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: 90px;
+    color: darkgoldenrod;
+    text-decoration: antiquewhite ;
+    border: black solid 10px;
+    background: silver;
+    width: 700px ;
+    border-radius: 10px;
+}
+h2{
+    margin: auto;
+    text-align: center;
+    font-size: 100px;
+}
+#container{
+    background-color: burlywood;
+    width: 700px;
+    margin: auto;
+    border: black solid 10px;
+}
+img{
+    height: 800px;
+    width: 100%;
+    object-fit: cover;
+}
+button{
+    font-size: 130%;
+    display: block;
+
+}
